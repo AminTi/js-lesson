@@ -1,3 +1,3 @@
 # js-lesson
 
-//test
+//First js lesson
